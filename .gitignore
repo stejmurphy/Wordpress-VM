@@ -1,0 +1,7 @@
+#gitignore
+.vagrant/
+.idea/
+.DS_Store
+.idea
+/wp
+/vendor
