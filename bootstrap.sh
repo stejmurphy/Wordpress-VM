@@ -1,4 +1,3 @@
-
 # Setup Wordpresss
 echo "cd into bedrock"
 cd bedrock/
